@@ -210,6 +210,7 @@ a{
     background-position: 35% 44%;
     display: flex; 
     align-items: center;
+    background-repeat: no-repeat;
 }
 .home .home-1{
     margin-left: 7rem;
